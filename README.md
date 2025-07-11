@@ -1,2 +1,8 @@
-# imardosong
-IMARDOS est une ONG est créée le 22 septembre 2022 et  pour objectif de contribuer à promotion de l’entrepreneuriat et l’amélioration de l’accès des adolescent.e.s et jeunes filles et femmes y compris les personnes handicapées aux services de santé, d’éducation de qualités et d’équité dans un environnement sain et vert.
+# IMARDOS ONG Website
+
+This is a static site template for IMARDOS ONG.
+To deploy:
+1. Push to GitHub
+2. Enable GitHub Pages in repo settings
+
+Or deploy via Netlify by linking this folder.
